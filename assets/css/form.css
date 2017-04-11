@@ -1,0 +1,33 @@
+/**** Form Layout ****/
+.contact {
+  border: none;
+  padding-left: 40px;
+}
+
+.contact label {
+  display: block;
+  float: left;
+  clear: left;
+  width: 140px;
+  margin-top: 15px;
+}
+
+.contact input, .contact textarea {
+  margin-top: 15px;
+  clear: right;
+}
+
+input.button {
+  color: white;
+  padding: 0 4px;
+  width: 78px;
+  height: 45px;
+  font-weight: bold;
+  background: #59554A url(../images/buttonCF.jpg) no-repeat left top;
+  border: none;
+  cursor: pointer;
+  margin-left: 130px;
+  margin-top: 20px;
+  display: block;
+  clear: both;
+}

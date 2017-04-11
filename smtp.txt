@@ -1,0 +1,2 @@
+Email	= simfoni.ikastikma@gmail.com
+Pass	= ikastikma77
